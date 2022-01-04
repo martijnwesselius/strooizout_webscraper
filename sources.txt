@@ -1,0 +1,11 @@
+https://github.com/jhnwr/whiskey-cronjob/blob/main/new-whisky.py
+
+https://www.digitalocean.com/
+
+https://www.youtube.com/watch?v=VztRqRXeyn0
+
+https://realpython.com/python-send-email/
+
+https://datascience.stackexchange.com/questions/9913/periodically-executing-a-scraping-script-with-python
+
+https://stackoverflow.com/questions/65983075/how-can-i-run-web-scraper-script-automatically-every-hour/65983262
